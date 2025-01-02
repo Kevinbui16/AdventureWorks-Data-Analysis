@@ -1,7 +1,6 @@
 <body>
 
 <h1>🌟 AdventureWorks Data Analysis Dashboard</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/AdventureWorks.png" alt="AdventureWorks Logo" width="150">
 
 <h2>📊 Visualizing Business Insights with Interactive Dashboards</h2>
 <p>Welcome to the <strong>AdventureWorks Data Analysis Dashboard</strong> repository! This project showcases an in-depth analysis of AdventureWorks' business performance, visualized through stunning and interactive Power BI dashboards.</p>
@@ -71,27 +70,39 @@
 
 <h2>📸 Screenshots</h2>
 <h3>💰 Company Performance Overview</h3>
-<img src="./screenshots/Screenshot_1.png" alt="Company Performance" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Company_Performance_Overview.png" alt="Company Performance" width="600">
+</p>
 
 <h3>📅 Calendar Heatmap View</h3>
-<img src="./screenshots/Screenshot_2.png" alt="Calendar Heatmap" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Calendar_Heatmap_View.png" alt="Calendar Heatmap" width="600">
+</p>
 
 <h3>🎉 Highlight Period / Holiday Season</h3>
-<img src="./screenshots/Screenshot_3.png" alt="Holiday Sales" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Highlight_Period%3AHoliday_Season.png" alt="Holiday Sales" width="600">
+</p>
 
 <h3>💡 Profit Margin Analysis</h3>
-<img src="./screenshots/Screenshot_4.png" alt="Profit Margin" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Profit_Margin_Analysis.png" alt="Profit Margin" width="600">
+</p>
 
 <h3>🌍 Map View</h3>
-<img src="./screenshots/Screenshot_5.png" alt="Map Insights" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Map_View.png" alt="Map Insights" width="600">
+</p>
 
 <h3>👥 Customer Inquiry</h3>
-<img src="./screenshots/Screenshot_6.png" alt="Customer Details" width="600">
+<p align="center">
+    <img src="asset_Power_BI/Customer_Inquiry.png" alt="Customer Details" width="600">
+</p>
 
 <h3>🛍️ Reseller Inquiry</h3>
-<img src="./screenshots/Screenshot_7.png" alt="Reseller Details" width="600">
-
-<hr>
+<p align="center">
+    <img src="asset_Power_BI/Reseller_Inquiry.png" alt="Reseller Details" width="600">
+</p>
 <hr>
 
 <h2>🚀 Getting Started</h2>
