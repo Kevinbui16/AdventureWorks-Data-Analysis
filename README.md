@@ -1,6 +1,6 @@
 <body>
 
-<h1>🌟 AdventureWorks Data Analysis Dashboard</h1>
+<h1>🌟 AdventureWorks Data Analysis Dashboard PowerBI</h1>
 
 <h2>📊 Visualizing Business Insights with Interactive Dashboards</h2>
 <p>Welcome to the <strong>AdventureWorks Data Analysis Dashboard</strong> repository! This project showcases an in-depth analysis of AdventureWorks' business performance, visualized through stunning and interactive Power BI dashboards.</p>
