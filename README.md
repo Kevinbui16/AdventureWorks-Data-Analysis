@@ -4,7 +4,10 @@
 
 <h2>📊 Visualizing Business Insights with Interactive Dashboards</h2>
 <p>Welcome to the <strong>AdventureWorks Data Analysis Dashboard</strong> repository! This project showcases an in-depth analysis of AdventureWorks' business performance, visualized through stunning and interactive Power BI dashboards.</p>
-
+<p>Link access the dashboard: </p>
+<a href="https://app.powerbi.com/groups/me/reports/f92ef2cd-75f4-411c-926a-7003ee788ac7/e1caf41f66d2d1004680?experience=power-bi" target="_blank">
+        <button style="padding: 10px 20px; font-size: 16px;">Public Report Online</button>
+    </a>
 <hr>
 
 <h2>🔍 Key Highlights</h2>
